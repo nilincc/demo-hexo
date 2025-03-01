@@ -102,5 +102,5 @@ theme: Chic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/nilincc/demohexo.git
+  repo: git@github.com:nilincc/demo-hexo.git
   branch: gh-pages
